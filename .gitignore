@@ -109,3 +109,6 @@ x86/
 
 # Publish Web Output
 *.[Pp]ublish.xml
+UnrealIntro/DerivedDataCache
+UnrealIntro/Intermediate
+UnrealIntro/Saved
